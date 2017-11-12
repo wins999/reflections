@@ -1,0 +1,2 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+the staging area keeps track of all the files the user wants to commit in the future and the repository keeps track all the files user has ever created.

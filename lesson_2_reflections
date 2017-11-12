@@ -1,0 +1,2 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+staging area is where all the files that need to be commited are kept.indvidual commit or subset commit of the working directory is possible
